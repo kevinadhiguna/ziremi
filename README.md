@@ -1,5 +1,5 @@
 # Ziremi
-A stock price tracker web app that enables you to look at current stock price of an enterprise.
+A stock price tracker web app that enables you to look at current stock price of an enterprise, powered by streamlit and yfinance.
 
 ## Demo
 
